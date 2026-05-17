@@ -18,8 +18,12 @@ print("my favorate fruit is the", favfruit)
 # Print them on 2 separate lines.
 city = "sammamish" 
 countery = "USA"
-print(city)
+print( city)
 print(countery)
 # Problem 5
 # Create 3 variables: your pet's name, its age, and its type.
 # Print them on the same line in a full sentence.
+Mydreampet= "Moti"
+Mydreampetage = "6 months"
+Mydreampettype = "dog"
+print("My dream pet is a", Mydreampettype, "named", Mydreampet, "It's age is Mydreampetage")
