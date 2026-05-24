@@ -15,11 +15,11 @@ print(2+28*4/4)
 
 a=8
 b=3
-print("a+b")
+print("a+b=", a+b)
 print(a*b)
 
 
-
+print(13*8)
 
 
 x= int(input("enter a number :"))
